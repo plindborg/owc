@@ -6,7 +6,7 @@ title: Privacy Policy
 
 **Effective date:** February 27, 2026
 
-Fishing does not collect, store, or share personal data.
+Fishing Memories does not collect, store, or share personal data.
 
 ## Data We Do Not Collect
 - No accounts, email addresses, or identifiers are collected.
