@@ -13,9 +13,6 @@ Focus Island does not collect, store, or share personal data.
 - No analytics, advertising, or tracking SDKs are used.
 - No data is sent to any servers.
 
-## Sharing
-When you export or share a video, you choose where to share it. Foucs Island does not receive a copy.
-
 ## Contact
 If you have questions, contact us at: offworldcolonies73@gmail.com
 
