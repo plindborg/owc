@@ -2,7 +2,7 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy for Fishing
+# Privacy Policy for Fishing Memories
 
 **Effective date:** February 27, 2026
 
@@ -14,7 +14,7 @@ Fishing does not collect, store, or share personal data.
 - No data is sent to any servers.
 
 ## Sharing
-When you export or share a image, you choose where to share it. Fishing does not receive a copy.
+When you export or share a image, you choose where to share it. Fishing Memories does not receive a copy.
 
 ## Contact
 If you have questions, contact us at: offworldcolonies73@gmail.com
