@@ -1,6 +1,6 @@
-AI Runstreak Companion – Support
+Just One More Day – Support
 
-AI Runstreak Companion helps you keep your running streak alive with one simple daily rule: complete at least 1 mile (1609 meters) in a single run.
+Just One More Day helps you keep your running streak alive with one simple daily rule: complete at least 1 mile (1609 meters) in a single run.
 
 The app gives you:
 
@@ -32,3 +32,6 @@ Privacy and control
 You can disconnect Strava at any time.
 Health data access is read-only for supported metrics.
 Permissions can be managed in iOS Settings at any time.
+
+Contact
+If you have questions, contact us at: offworldcolonies73@gmail.com
