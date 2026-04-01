@@ -70,6 +70,5 @@ This page may be updated from time to time to reflect product, platform, or lega
 
 ## Contact
 
-- Privacy contact: `privacy@your-domain.example`
-- Support contact: `support@your-domain.example`
-- Support page: `https://your-domain.example/proceeds/support`
+- Privacy contact: `offworldcolonies73@gmail.com `
+- Support contact: `offworldcolonies73@gmail.com `
