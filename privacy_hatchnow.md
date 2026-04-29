@@ -1,0 +1,20 @@
+---
+title: Privacy Policy
+---
+
+# Privacy Policy for Hatch Now
+
+**Effective date:** April 29, 2026
+
+Hatch Now does not collect, store, or share personal data.
+
+## Data We Do Not Collect
+- No accounts, email addresses, or identifiers are collected.
+- No analytics, advertising, or tracking SDKs are used.
+
+## Contact
+If you have questions, contact us at: offworldcolonies73@gmail.com
+
+---
+
+If you prefer to read this policy in Swedish, let us know and we’ll provide a translated version.
