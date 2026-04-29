@@ -14,7 +14,7 @@ SpiltZone does not collect, store, or share personal data.
 - No data is sent to any servers.
 
 ## Sharing
-When you export or share a video, you choose where to share it. Vardon does not receive a copy.
+When you export or share a video, you choose where to share it. Splitzone does not receive a copy.
 
 ## Contact
 If you have questions, contact us at: offworldcolonies73@gmail.com
